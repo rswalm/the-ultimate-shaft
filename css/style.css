@@ -250,16 +250,17 @@ header {
 	text-transform:uppercase;
 	line-height:80px;
 	font-size:26px;
-	color:#333;
+	color:whitesmoke;
 }
 .logo a span {
 	display:inline-block;
 	padding-right:18px;
 }
-.logo a span.b1 {font-weight:900;}
-.logo a span.b2 {font-weight:700;}
-.logo a span.b3 {font-weight:400;}
-.logo a span.b4 {font-weight:300;}
+.logo a span.b1 {font-weight:1000;}
+.logo a span.b2 {font-weight:900;}
+.logo a span.b3 {font-weight:700;}
+.logo a span.b4 {font-weight:400;}
+.logo a span.b5 {font-weight:300;}
 .logo a span.b5 {font-weight:100;}
 
 
@@ -274,8 +275,8 @@ header {
 	right:0;
 	height:80px;
 	width:100%;
-	background-color:#fff;
-	box-shadow:0 2px 3px rgba(0,0,0,0.1);
+	background-color:#161616 ;
+	box-shadow:0 2px 3px white (0,0,0,0.1);
 }
 
 .navmenu ul li {
@@ -290,13 +291,13 @@ header {
 	font-weight:900;
 	line-height:20px;
 	font-size:13px;
-	color:#666;
+	color:white;
 	transition: all 0.3s ease-in-out; 
 	-webkit-transition: all 0.3s ease-in-out;
 }
 .navmenu li:hover a,
 .navmenu li.active a {
-	color:#333;
+	color:rgb(89, 60, 156);
 }
 
 /* Sub menu */
